@@ -1,3 +1,18 @@
+<!-- repo-standard:start -->
+# Document Manager
+
+Python-based document management tool for organizing, processing, and managing files.
+
+| Area | Stack | Visibility |
+| --- | --- | --- |
+| Productivity | Python, FastAPI | Public |
+
+**Repository:** `JayRHa/document-manager`  
+**Topics:** `document-management`, `python`, `fastapi`, `productivity`
+<!-- repo-standard:end -->
+
+---
+
 # 📄 DocumentManager
 
 <div align="center">
