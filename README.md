@@ -1,7 +1,7 @@
 <!-- unified-readme:start -->
 <div align="center">
 
-# 📄 DocumentManager
+# Document Manager
 
 **Transform your document chaos into an AI-powered knowledge powerhouse.**
 
@@ -27,7 +27,7 @@ Build. Automate. Share.
 
 ## What is this?
 
-📄 DocumentManager focuses on organizing, processing, and managing documents so files become searchable, structured, or easier to work with.
+Document Manager focuses on organizing, processing, and managing documents so files become searchable, structured, or easier to work with.
 
 ## Project Context
 
