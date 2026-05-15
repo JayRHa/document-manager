@@ -1,3 +1,48 @@
+<!-- unified-readme:start -->
+    <div align="center">
+
+    # Document Manager
+
+    **Python-based document management tool for organizing, processing, and managing files.**
+
+    Build. Automate. Share.
+
+    [![GitHub stars](https://img.shields.io/github/stars/JayRHa/DocumentManager?style=for-the-badge&logo=github&color=f4c542)](https://github.com/JayRHa/DocumentManager/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/JayRHa/DocumentManager?style=for-the-badge&logo=github&color=4078c0)](https://github.com/JayRHa/DocumentManager/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/JayRHa/DocumentManager?style=for-the-badge&logo=github&color=d73a4a)](https://github.com/JayRHa/DocumentManager/issues)
+[![Contributors](https://img.shields.io/github/contributors/JayRHa/DocumentManager?style=for-the-badge&logo=github&color=28a745)](https://github.com/JayRHa/DocumentManager/graphs/contributors)
+
+    ---
+
+    `Document Management` | `Python` | `Public` | `Maintained`
+
+    </div>
+
+    ## What is this?
+
+    This repository contains python-based document management tool for organizing, processing, and managing files.
+
+    > Browse the documentation below for setup notes, usage details, and project-specific context.
+
+    ---
+
+    ## Quick Start
+
+    1. Review the project documentation below.
+2. Clone the repository:
+
+   ```bash
+   git clone https://github.com/JayRHa/DocumentManager.git
+   ```
+
+3. Follow the setup, deployment, or usage notes in the preserved documentation section.
+
+    ---
+    <!-- unified-readme:end -->
+
+
+## Existing Documentation
+
 # 📄 DocumentManager
 
 <div align="center">
@@ -93,7 +138,7 @@ The beauty of open source? You can have this running on your machine right now:
 
 ```bash
 # Clone the repository
-git clone https://github.com/JayRHa/Document-Manager.git
+git clone https://github.com/JayRHa/DocumentManager.git
 cd Document-Manager
 
 # Run the setup script
@@ -326,7 +371,7 @@ We love contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for 
 
 ```bash
 # Clone your fork
-git clone https://github.com/JayRHa/Document-Manager.git
+git clone https://github.com/JayRHa/DocumentManager.git
 cd Document-Manager
 
 # Create branch
